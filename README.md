@@ -1,4 +1,4 @@
-Claro, aqui está o texto do README para o seu projeto "Tradutor-de-Artigos-Técnicos-com-AzureAI":
+
 
 -----
 
